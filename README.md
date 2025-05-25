@@ -17,3 +17,5 @@
   - Main implementation of Federated Learning system
   - Uses NVIDIA Flare framework
   - Used in NVIDIA Jetson TX2 modules
+  - Base of the project was downloaded from https://github.com/NVIDIA/NVFlare/tree/2.6/examples/advanced/cifar10
+
