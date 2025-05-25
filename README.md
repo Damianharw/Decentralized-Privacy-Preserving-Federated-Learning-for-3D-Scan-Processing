@@ -3,7 +3,7 @@
 
 - **Local FL and experiments/**
   - `reconstruction.py`  
-    Used for experimenting with the DLG algorithm, gradient compression, and noise injection on the CIFAR-10 dataset.
+    Used for experimenting with the DLG algorithm, gradient compression, and gradient noising on the CIFAR-10 dataset.
 
   - **CKKSTesting.py**  
   Experiments with noise accumulation under CKKS homomorphic encryption.
